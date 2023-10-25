@@ -1,0 +1,15 @@
+package application;
+
+public class main {
+
+	public static void main(String[] args) {
+		primeiroIphone iphone = new primeiroIphone();
+		
+		primeiroIphone reprodutor = iphone;
+		primeiroIphone aparelhoTelefonico = iphone;
+		primeiroIphone navegadorInternet = iphone;
+		
+		
+	}
+
+}

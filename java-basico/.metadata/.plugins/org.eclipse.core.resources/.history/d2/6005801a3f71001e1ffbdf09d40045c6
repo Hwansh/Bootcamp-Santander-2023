@@ -1,0 +1,18 @@
+package application;
+
+public class reprodutorMusical extends primeiroIphone{
+	public void tocar() {
+		this.tocar;
+		System.out.println("Tocando música..");
+	}
+	public void pausar() {
+		System.out.println("Tocando música..");
+	}
+	public void selecionarMusica() {
+		System.out.println("Tocando música..");
+	}
+	public void navegadorInternet() {
+		// TODO Auto-generated method stub
+		
+	}
+}

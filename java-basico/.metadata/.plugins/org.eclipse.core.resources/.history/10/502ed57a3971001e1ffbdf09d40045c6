@@ -1,0 +1,10 @@
+package application;
+
+public class aparelhoTelefonico implements primeiroIphone {
+	public void tocar(primeiroIphone tocar) {
+	}
+	public void pausar(primeiroIphone pausar) {
+	}
+	public void pausar(primeiroIphone selecionarMusica) {
+	}
+}

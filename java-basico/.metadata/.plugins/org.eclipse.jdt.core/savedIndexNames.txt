@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+E:\Study Files\DIO\Bootcamp-Santander-2023\java-basico\.metadata\.plugins\org.eclipse.jdt.core

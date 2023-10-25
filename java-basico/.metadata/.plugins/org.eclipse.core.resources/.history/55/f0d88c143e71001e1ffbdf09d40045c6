@@ -1,0 +1,20 @@
+package application;
+
+public class aparelhoTelefonico extends primeiroIphone {
+	public void ligar() {
+		System.out.println("Ligar..");
+	}
+	public void atender() {
+		System.out.println("Atendendo ligação..");
+	}
+	public void iniciarCorreioVoz() {
+		System.out.println("Correio de voz..");
+	}
+	
+	protected void tocar() {}
+	protected void pausar() {}
+	protected void selecionarMusica() {}
+	protected void exibirPagina() {}
+	protected void adicionarNovaAba() {}
+	protected void atualizarPagina() {}
+}

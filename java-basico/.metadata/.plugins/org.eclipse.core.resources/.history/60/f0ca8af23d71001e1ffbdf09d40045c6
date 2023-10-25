@@ -1,0 +1,15 @@
+package application;
+
+public class main {
+
+	public static void main(String[] args) {
+		primeiroIphone telefone = new primeiroIphone();
+		
+		telefone.ligar();
+		telefone.atender();
+		telefone.iniciarCorreioVoz();
+		
+	
+	}
+
+}

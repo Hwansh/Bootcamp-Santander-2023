@@ -1,0 +1,21 @@
+package application;
+
+public class main {
+
+	public static void main(String[] args) {
+		aparelhoTelefonico telefone = new aparelhoTelefonico();
+		
+		telefone.ligar();
+		telefone.atender();
+		telefone.iniciarCorreioVoz();
+		
+		navegadorInternet internet = primeiroIphone(new navegadorInternet);
+		
+		telefone.ligar();
+		telefone.atender();
+		telefone.iniciarCorreioVoz();
+		
+	
+	}
+
+}

@@ -1,0 +1,17 @@
+package application;
+
+public class aparelhoTelefonico extends primeiroIphone {
+	public void ligar() {
+		System.out.println("Tocando música..");
+	}
+	public void atender() {
+		System.out.println("Tocando música..");
+	}
+	public void iniciarCorreioVoz() {
+		System.out.println("Tocando música..");
+	}
+	@Override
+	public void aparelhoTelefonico() {
+		
+	}
+}

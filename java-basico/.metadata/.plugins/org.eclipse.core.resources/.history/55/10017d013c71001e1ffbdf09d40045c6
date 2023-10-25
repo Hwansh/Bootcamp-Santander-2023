@@ -1,0 +1,22 @@
+package application;
+
+public abstract class primeiroIphone{
+	public abstract void tocar();
+	public abstract void pausar();
+	public abstract void selecionarMusica();
+	
+	public abstract void ligar();
+	public abstract void atender();
+	public abstract void iniciarCorreioVoz();
+
+	public abstract void exibirPagina();
+	public abstract void adicionarNovaAba();
+	public void atualizarPagina() {
+		System.out.println("Atualizando página..");
+	}
+	
+	
+//	public abstract void reprodutorMusical();
+//	public abstract void aparelhoTelefonico();
+//	public abstract void navegadorInternet();
+}

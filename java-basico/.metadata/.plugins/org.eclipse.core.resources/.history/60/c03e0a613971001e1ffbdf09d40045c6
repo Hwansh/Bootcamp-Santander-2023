@@ -1,0 +1,7 @@
+package application;
+
+public class primeiroIphone implements reprodutorMusical, aparelhoTelefonico, navegadorInternet{
+	public void tocar() {
+		System.out.println("Tocando música..");
+	}
+}
