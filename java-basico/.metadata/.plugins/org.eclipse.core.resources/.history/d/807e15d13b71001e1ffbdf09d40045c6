@@ -1,7 +1,0 @@
-package application;
-
-public abstract class primeiroIphone{
-	public abstract void reprodutorMusical();
-	public abstract void aparelhoTelefonico();
-	public abstract void navegadorInternet();
-}
