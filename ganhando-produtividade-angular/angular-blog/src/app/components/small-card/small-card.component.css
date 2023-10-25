@@ -1,0 +1,30 @@
+.container__small-card{
+    width: 400px;
+    margin-bottom: 15px;
+}
+.small-card__title > p > a{
+    color: grey;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+
+}
+.container__small-card-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.small-card__photo > img{
+    width: 200px;
+    height: 150px;
+    min-width: 200px;
+    margin-right: 20px;
+}
+
+.small-card__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    margin-top: 10px;
+}
